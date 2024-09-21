@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yusuf
+- 👋 Hi, I’m @Yusufali2004
 - 👀 I’m interested in Competitive Programming, web applications, and the development of AI.
 - 🌱 I’m currently learning DSA in C++.
 - 💞️ I’m looking to collaborate on any web application
