@@ -6,7 +6,7 @@
 - 
 - 📫 How to reach me linkedin.com/in/md-yusuf-ali-
   
-- ⚡ Fun fact: if you code for 35 years, you will likely be your Organisation's CEO.
+- ⚡ Fun fact: if you work for 35 years, you will likely be your Organisation's CEO.
 
 <!---
 Yusufali2004/Yusufali2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
