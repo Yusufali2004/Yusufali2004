@@ -1,14 +1,31 @@
-- 👋 Hi, I’m Yusuf ali
-- 
-- 👀 I’m interested in Competitive Programming, web applications, and the development of AI.
-- 
-- 🌱 I’m currently learning DSA in C++.
-- 
-- 📫 How to reach me linkedin.com/in/md-yusuf-ali-
-  
-- ⚡ Fun fact: if you work for 35 years, you will likely be your Organisation's CEO.
+# 👋 Hi, I'm Yusuf Ali
 
-<!---
-Yusufali2004/Yusufali2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Developer | 💻 Competitive Programmer | 🤖 AI Enthusiast
+
+I'm passionate about building intelligent, impactful applications that make life easier.  
+Currently, I’m exploring **Data Structures & Algorithms (C++)**, **AI/ML**, and **Cross-Platform App Development**.
+
+---
+
+### 🌟 What I'm Working On
+- 🧠 **Smart Sort ♻️** — An AI-powered waste segregation app built with React Native and TensorFlow Lite.
+- 💡 Exploring projects at the intersection of **AI, sustainability, and user experience**.
+
+---
+
+### 🧰 Tech Stack
+**Languages:** C++, JavaScript, Python  
+**Frameworks:** React Native, Node.js  
+**AI Tools:** TensorFlow, Keras  
+**Databases:** Firebase, MongoDB  
+**Other:** Git, VS Code, REST APIs  
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-yusuf-ali-)  
+- 🐙 [GitHub](https://github.com/Yusufali2004)
+
+---
+
+> “Code. Learn. Build. Repeat.” — My 3-step plan to grow every day 🚀
