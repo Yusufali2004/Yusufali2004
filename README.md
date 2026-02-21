@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | 🤖 AI Builder | 🏆 National Hackathon Finalist
 
-I'm a 6th-semester CSE student passionate about building intelligent, production-ready applications and competing in high-stakes environments. I recently had the honor of **representing Bengaluru at a National Hackathon**, proving my ability to execute complex ideas under strict 48-hour deadlines. 
+I'm a 6th-semester CSE student passionate about building intelligent, production-ready applications and competing in high-stakes environments. I recently had the honor of **representing Bengaluru at a National Hackathon**, proving my ability to execute complex ideas under strict 24-hour deadlines. 
 
 Currently, I am focused on building fast, scalable AI applications using the **modern Next.js and Python ecosystems**, while strictly maintaining my discipline for **Data Structures & Algorithms (C++)** and Competitive Programming.
 
