@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | 🤖 AI Builder | 🏆 National Hackathon Finalist
 
-I'm a 6th-semester CSE student passionate about building intelligent, production-ready applications and competing in high-stakes environments. I recently had the honor of **representing Bengaluru at a National Hackathon**, proving my ability to execute complex ideas under strict 24-hour deadlines. 
+I'm a 6th-semester CSE student passionate about building intelligent, production-ready applications and competing in high-stakes environments. I recently had the honor of **representing Bengaluru at a National Hackathon**, proving my ability to execute complex ideas under strict 48-hour deadlines. 
 
 Currently, I am focused on building fast, scalable AI applications using the **modern Next.js and Python ecosystems**, while strictly maintaining my discipline for **Data Structures & Algorithms (C++)** and Competitive Programming.
 
@@ -15,11 +15,10 @@ Currently, I am focused on building fast, scalable AI applications using the **m
 ---
 
 ### 🌟 What I'm Working On
-- 😈 **Roast My Code** — An AI application built with Next.js that reviews your code like a sarcastic senior engineer.
 - 🥷 **Autonomous CI/CD Healing Agent** — Core backend development with Team *Algo Ninjas*.
 - 📓 **Aura** — An AI empathy journal built during the Replit x Polaris Vibeathon.
 - ♻️ **Smart Sort** — An intelligent waste segregation application utilizing image recognition.
-- ⚔️ Grinding DSA and pushing my algorithmic problem-solving limits on Codeforces.
+- ⚔️ Grinding DSA and pushing my algorithmic problem-solving limits on LeetCode and Codeforces.
 
 ---
 
@@ -35,7 +34,7 @@ Currently, I am focused on building fast, scalable AI applications using the **m
 ### 📫 Connect with Me & Coding Profiles
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-yusuf-ali-)  
 - 🐙 [GitHub](https://github.com/Yusufali2004)
-- 🐦 [X (Twitter)](https://twitter.com/Yusuf_ali_2004)
+- ⚡ [LeetCode](https://leetcode.com/Yusuf_azel/)
 - 📊 [Codeforces](https://codeforces.com/profile/yusufali.sde)
 
 ---
